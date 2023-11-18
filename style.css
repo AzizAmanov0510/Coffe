@@ -1,0 +1,301 @@
+.container{
+    width: 1440px;
+    margin: auto;
+}
+
+.bck-fon{
+    width: 1440px;
+    height: 800px;
+    background-image: url(./img/first\ fon.png);
+    padding: 1%;
+}
+
+.logo{
+    width: 235px;
+    height: 24px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.nav-title{
+    display: flex;
+    align-items: center;
+    margin-top: -35px;
+    margin-left: 1080px;
+}
+
+.nav-title li a{
+    text-decoration: none;
+    width: 38px;
+    height: 14px;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+}
+
+.nav-text{
+    list-style: none;
+    padding: 5%;
+}
+
+.mr-right{
+    width: 710px;
+    height: 696px;
+    margin-left: 745px;
+    margin-top: 39px;
+}
+
+.mr-left{
+    margin-left: 150px;
+    margin-top: -580px;
+}
+
+.mr-left h3{
+    font-size: 64px;
+}
+
+.mr-left p{
+    font-size: 16px;
+    margin-top: -20px;
+}
+
+.button{
+    width: 193px;
+    height: 51px;
+    background-color: rgb(10, 119, 95);
+    color: white;
+    border-radius: 40px;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+
+.fon{
+    width: 1400px;
+    height: 1739px;
+    background-image: url(./img/fon.png);
+    margin-left: 15px;
+    margin-top: 180px;
+}
+
+.collection{
+    text-align: center;
+    font-size: 32px;
+    padding: 3%;
+}
+
+.sec-right{
+    margin-left: 730px;
+    margin-top: 150px;
+}
+
+.sec-right h3{
+    font-size: 32px;
+}
+
+.sec-right p{
+    font-size: 20px;
+}
+
+.sec-left{
+    width: 450px;
+    height: 245px;
+    margin-left: 163px;
+    margin-top: -182px;
+}
+
+.sect-left{
+    margin-left: 315px;
+    margin-top: 150px;
+}
+
+.sect-left h3{
+    font-size: 32px;
+}
+
+.sect-left p{
+    font-size: 20px;
+}
+
+.sect-right{
+    width: 450px;
+    height: 245px;
+    margin-left: 650px;
+    margin-top: -182px;
+}
+
+.fon-third{
+    width: 1400px;
+    height: 912px;
+    background-image: url(./img/second\ fon.png);
+    margin-top: 15px;
+    margin-left: 12px;
+}
+
+.choose{
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+.choose h2{
+    font-size: 40px;
+}
+
+.type-coffe{
+    margin-top: 120px;
+    margin-left: 25px;
+}
+
+.type-cof{
+    margin-top: -615px;
+    margin-left: 480px;
+}
+
+.type-cofe{
+    margin-top: -615px;
+    margin-left: 940px;
+}
+
+.last-fon{
+    width: 1400px;
+    height: 826px;
+    background-image: url(./img/third\ fon.png);
+    margin-left: 12px;
+    margin-top: 240px;
+}
+
+.works{
+    text-align: center;
+    padding: 5%;
+}
+
+.works h3{
+    font-size: 40px;
+    color: white;
+}
+
+.sticker{
+    width: 191px;
+    height: 129px;
+    margin-left: 980px;
+    margin-top: -155px;
+}
+
+.white-fon{
+    width: 433px;
+    height: 396px;
+    background-image: url(./img/white-fon.png);
+    margin-top: 120px;
+    margin-left: 25px;
+}
+
+.white-fon span{
+    font-size: 48px;
+    margin-left: 350px;
+}
+
+.white-fon h4{
+    font-size: 32px;
+    margin-left: 12px;
+}
+
+.white-fon p{
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.white-fon-two{
+    width: 433px;
+    height: 396px;
+    background-image: url(./img/white-fon.png);
+    margin-top: -395px;
+    margin-left: 480px;
+}
+
+.white-fon-two span{
+    font-size: 48px;
+    margin-left: 350px;
+}
+
+.white-fon-two h4{
+    font-size: 32px;
+    margin-left: 12px;
+}
+
+.white-fon-two p{
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.white-fon-three{
+    width: 433px;
+    height: 396px;
+    background-image: url(./img/white-fon.png);
+    margin-top: -395px;
+    margin-left: 940px;
+}
+
+.white-fon-three span{
+    font-size: 48px;
+    margin-left: 350px;
+}
+
+.white-fon-three h4{
+    font-size: 32px;
+    margin-left: 12px;
+}
+
+.white-fon-three p{
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.button-two{
+    width: 185px;
+    height: 45px;
+    background-color: rgb(201, 155, 103);
+    color: white;
+    border-radius: 40px;
+    margin-left: 595px;
+    margin-top: 15px;
+}
+
+.footer-fon{
+    width: 1440px;
+    height: 160px;
+    background-image: url(./img/four\ fon.png);
+    margin-top: 50px;
+    padding: 2%;
+    margin-left: -40px;
+}
+
+.logo-two{
+    width: 235px;
+    height: 24px;
+    margin-left: 50px;
+    margin-top: 75px;
+}
+
+.nav-title-two{
+    display: flex;
+    align-items: center;
+    margin-top: -55px;
+    margin-left: 450px;
+}
+
+.nav-title-two li a{
+    text-decoration: none;
+    width: 38px;
+    height: 14px;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+}
+
+.icons{
+    margin-left: 1240px;
+    margin-top: -90px;
+}
+
+.icons img{
+    margin-right: 10%;
+}
